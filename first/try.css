@@ -3,6 +3,7 @@ div{
     border: 10px solid greenyellow;
     padding: 10px;
     box-shadow: 10px 10px 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
 }
 h1{
@@ -10,14 +11,41 @@ h1{
     text-align: center;
 }
 .tab{
-    background-color: coral;
+    background-color: rgb(239, 241, 110);
     padding: 20px;
-    margin: 30px;
+    margin: 30px 300px; 
+   
+   
 }
 th{
-    color: darkturquoise;
-    background-color: white;
+    color: rgb(23, 29, 216);
+    background-color: rgba(238, 10, 135, 0.336);
+  
 }
 td{
-    background-color: chartreuse;
+    background-color: rgba(169, 193, 207, 0.363);
+    text-align: center;
+    color: rgb(56, 8, 56);
 }
+.for{
+    margin: 20px 300px;
+    border: 10px dotted rgb(150, 12, 35);
+    padding: 10px;
+    box-shadow: 20px 20px 20px;
+    background-color: rgba(0, 225, 255, 0.336);}
+    table{
+        height: 80%;
+        width: 100%;
+      
+    }
+    
+   .hed{
+    margin: 100px 100px;
+    border: 10px dotted rgba(238, 10, 135, 0.336);
+    height: 500px;
+    width: 1000px; 
+    background-image: url("../images/pawan-thapa-T34Y43PHtoE-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+   }
+    
