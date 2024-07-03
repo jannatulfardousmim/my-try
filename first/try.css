@@ -9,3 +9,15 @@ h1{
     color: crimson;
     text-align: center;
 }
+.tab{
+    background-color: coral;
+    padding: 20px;
+    margin: 30px;
+}
+th{
+    color: darkturquoise;
+    background-color: white;
+}
+td{
+    background-color: chartreuse;
+}
