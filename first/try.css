@@ -14,6 +14,7 @@ h1{
     background-color: rgb(239, 241, 110);
     padding: 20px;
     margin: 30px 300px; 
+    
    
    
 }
@@ -40,12 +41,21 @@ td{
     }
     
    .hed{
-    margin: 100px 100px;
+    margin: 10px 10px;
     border: 10px dotted rgba(238, 10, 135, 0.336);
-    height: 500px;
-    width: 1000px; 
-    background-image: url("../images/pawan-thapa-T34Y43PHtoE-unsplash.jpg");
+    height: 400px;
+    background-color: gold;
+    background-image: linear-gradient(0deg,transparent,rgba(247, 247, 89, 0.822)) ,url("../images/pawan-thapa-T34Y43PHtoE-unsplash.jpg");  
     background-size: cover;
     background-repeat: no-repeat;
+    clip-path: polygon(50% 0%, 83% 12%, 100% 43%, 94% 78%, 68% 100%, 32% 100%, 6% 78%, 0% 43%, 17% 12%);
+    
+    background-position:center ;
+    margin-left: auto;
+    margin-right: auto;
+   }
+   .mim{
+    color: chartreuse;
+   text-decoration: underline chartreuse;
    }
     
